@@ -14,6 +14,9 @@ validation tools. Keep compatibility with both Claude Code and Codex users.
 - `tools/*.py`: shared financial validation and data tools used by both systems.
 - `reports/`: research outputs. Do not rewrite unrelated reports while changing
   tooling or skills.
+- `research/`: this fork's research archive. Save new reports produced for this
+  fork in the dated batch layout in [the archive index](research/README.md)
+  and add each new batch to that index.
 - `scripts/sync-codex-skills.py`: regenerates Codex skills from `skills/*.md`.
 - `scripts/install-codex-skills.sh` / `scripts/install-codex-skills.bat`:
   installs Codex skills locally.
