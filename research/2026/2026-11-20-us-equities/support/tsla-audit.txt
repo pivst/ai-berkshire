@@ -1,0 +1,69 @@
+======================================================================
+报告数据抽检 — 准出/打回判决
+报告：TSLA-投资研究-20261120.md
+======================================================================
+
+  ✅ 通过 [ 7] 毛利 · 2021                            报告:        13.61
+                                                    https://www.sec.gov/Archives/edgar/data/1318605/000095017023001409/tsla-20221231.htm: 13.61 (偏差 0.00%)  |  https://stockanalysis.com/stocks/tsla/financials/: 13.61 (偏差 0.00%)
+  ✅ 通过 [ 9] 毛利 · 2023                            报告:        17.66
+                                                    https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/tsla-20251231.htm: 17.66 (偏差 0.00%)  |  https://stockanalysis.com/stocks/tsla/financials/: 17.66 (偏差 0.00%)
+  ✅ 通过 [ 8] 毛利 · 2022                            报告:        20.85
+                                                    https://www.sec.gov/Archives/edgar/data/1318605/000095017023001409/tsla-20221231.htm: 20.85 (偏差 0.00%)  |  https://stockanalysis.com/stocks/tsla/financials/: 20.85 (偏差 0.00%)
+  ✅ 通过 [23] 归母净利润 · 2025                         报告:         3.79
+                                                    https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/tsla-20251231.htm: 3.79 (偏差 0.00%)  |  https://www.macrotrends.net/stocks/charts/TSLA/tesla/net-income: 3.79 (偏差 0.00%)
+  ✅ 通过 [24] 归母净利润 · TTM 至 2026Q3                 报告:         3.22
+                                                    https://www.sec.gov/Archives/edgar/data/1318605/000162828026066775/tsla-20260930.htm + https://assets-ir.tesla.com/tesla-contents/IR/TSLA-Q3-2026-Update.pdf: 3.22 (偏差 0.00%)  |  https://www.trefis.com/data/companies/TSLA?from=TSLA_risk_monitor_2026-05-21: 3.22 (偏差 0.00%)
+  ✅ 通过 [29] 经营现金流 · 2025                         报告:        14.75
+                                                    https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/tsla-20251231.htm: 14.75 (偏差 0.00%)  |  https://stockanalysis.com/stocks/tsla/financials/cash-flow-statement/: 14.75 (偏差 0.00%)
+  ✅ 通过 [27] 经营现金流 · 2023                         报告:        13.26
+                                                    https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/tsla-20251231.htm: 13.26 (偏差 0.00%)  |  https://stockanalysis.com/stocks/tsla/financials/cash-flow-statement/: 13.26 (偏差 0.00%)
+  ✅ 通过 [36] 现金资本开支 · TTM 至 2026Q3                报告:        15.41
+                                                    https://www.sec.gov/Archives/edgar/data/1318605/000162828026066775/tsla-20260930.htm + https://assets-ir.tesla.com/tesla-contents/IR/TSLA-Q3-2026-Update.pdf: 15.41 (偏差 0.00%)  |  https://stockanalysis.com/stocks/tsla/financials/cash-flow-statement/: 15.41 (偏差 0.00%)
+  ✅ 通过 [51] 汽车收入（含积分及租赁） · 2026Q2                报告:        20.52
+                                                    https://www.sec.gov/Archives/edgar/data/1318605/000162828026049270/tsla-20260630.htm: 20.52 (偏差 0.00%)  |  https://assets-ir.tesla.com/tesla-contents/IR/TSLA-Q3-2026-Update.pdf: 20.52 (偏差 0.00%)
+  ✅ 通过 [56] 能源生产与储能收入 · 2026Q3                   报告:         2.88
+                                                    https://www.sec.gov/Archives/edgar/data/1318605/000162828026066775/tsla-20260930.htm: 2.88 (偏差 0.00%)  |  https://filingdiff.com/ticker/TSLA/0001628280-26-066775/: 2.88 (偏差 0.00%)
+  ✅ 通过 [58] 服务及其他收入 · 2026Q1                     报告:         3.75
+                                                    https://ir.tesla.com/_flysystem/s3/sec/000162828026026673/tsla-20260331-gen.pdf: 3.75 (偏差 0.00%)  |  https://assets-ir.tesla.com/tesla-contents/IR/TSLA-Q3-2026-Update.pdf: 3.75 (偏差 0.00%)
+  ✅ 通过 [60] 服务及其他收入 · 2026Q3                     报告:         4.61
+                                                    https://www.sec.gov/Archives/edgar/data/1318605/000162828026066775/tsla-20260930.htm: 4.61 (偏差 0.00%)  |  https://filingdiff.com/ticker/TSLA/0001628280-26-066775/: 4.61 (偏差 0.00%)
+  ✅ 通过 [57] 服务及其他收入 · 2025Q4                     报告:         3.37
+                                                    https://assets-ir.tesla.com/tesla-contents/IR/TSLA-Q4-2025-Update.pdf: 3.37 (偏差 0.00%)  |  https://assets-ir.tesla.com/tesla-contents/IR/TSLA-Q3-2026-Update.pdf: 3.37 (偏差 0.00%)
+  ✅ 通过 [63] 总收入 · 2026Q2                         报告:        28.24
+                                                    https://www.sec.gov/Archives/edgar/data/1318605/000162828026049270/tsla-20260630.htm: 28.24 (偏差 0.00%)  |  https://stockanalysis.com/stocks/tsla/financials/?p=quarterly: 28.24 (偏差 0.00%)
+  ✅ 通过 [71] 集团营业利润 · 2026Q2                      报告:         0.40
+                                                    https://www.sec.gov/Archives/edgar/data/1318605/000162828026049270/tsla-20260630.htm: 0.40 (偏差 0.00%)  |  https://stockanalysis.com/stocks/tsla/financials/?p=quarterly: 0.40 (偏差 0.00%)
+  ✅ 通过 [108] Optimus · 乐观                         报告:         2.00
+                                                    2029 年报告情景，外部无可靠盈利观测值: 2.00 (偏差 0.00%)
+  ✅ 通过 [109] 未分配成本与净其他 · 悲观                       报告:        -0.50
+                                                    2029 年报告情景，外部无可靠盈利观测值: -0.50 (偏差 0.00%)
+  ✅ 通过 [115] 三年利润年增速 · 悲观                         报告:        15.82 %
+                                                    model.py；以期末情景利润与 TTM 重算: 15.82 (偏差 0.02%)
+  ✅ 通过 [130] 汽车及传统服务利润 · 悲观                       报告:         5.00
+                                                    2036 年报告情景，外部无可靠盈利观测值: 5.00 (偏差 0.00%)
+  ✅ 通过 [140] Optimus 利润 · 乐观                      报告:        40.00
+                                                    2036 年报告情景，外部无可靠盈利观测值: 40.00 (偏差 0.00%)
+  ✅ 通过 [144] 合计归母净利 · 悲观                          报告:        12.00
+                                                    2036 悲观分部利润桥重算: 12.00 (偏差 0.00%)
+  ✅ 通过 [152] 永续增速 · 乐观                            报告:         3.50 %
+                                                    terminal-config.json，永续增速假设: 3.50 (偏差 0.00%)
+  ✅ 通过 [151] 永续增速 · 基准                            报告:         2.50 %
+                                                    terminal-config.json，永续增速假设: 2.50 (偏差 0.00%)
+  ✅ 通过 [155] r−g · 乐观                             报告:         6.50
+                                                    model.py；以 r 和 g 复算: 6.50 (偏差 0.00%)
+  ✅ 通过 [164] 加权 IRR · 10%                         报告:        -9.09 %
+                                                    model.py；以三档 IRR 与概率重算: -9.09 (偏差 0.04%)
+  ✅ 通过 [174] FY2025 收入 · 交叉核验                     报告:        94.83
+                                                    https://www.macrotrends.net/stocks/charts/TSLA/tesla/revenue: 94.83 (偏差 0.00%)  |  https://stockanalysis.com/stocks/tsla/financials/: 94.83 (偏差 0.00%)
+  ✅ 通过 [176] FY2025 归母净利润 · 交叉核验                  报告:         3.79
+                                                    https://www.macrotrends.net/stocks/charts/TSLA/tesla/net-income: 3.79 (偏差 0.00%)  |  https://stockanalysis.com/stocks/tsla/financials/: 3.79 (偏差 0.00%)
+  ✅ 通过 [183] TTM 归母净利润 · 原始／首选                    报告:         3.22
+                                                    https://www.sec.gov/Archives/edgar/data/1318605/000162828026066775/tsla-20260930.htm + https://assets-ir.tesla.com/tesla-contents/IR/TSLA-Q3-2026-Update.pdf: 3.22 (偏差 0.00%)  |  https://www.trefis.com/data/companies/TSLA?from=TSLA_risk_monitor_2026-05-21: 3.22 (偏差 0.00%)
+
+----------------------------------------------------------------------
+  抽检总数: 28  |  通过: 28  |  警告: 0  |  不通过: 0
+
+【准出】所有抽检数据通过，报告可发布。
+======================================================================
+
+Evidence types: {'assumption_or_arithmetic': 10, 'dual': 13, 'issuer_only': 5}
